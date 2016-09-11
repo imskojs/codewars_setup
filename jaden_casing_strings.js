@@ -1,3 +1,4 @@
+module.exports = "side effect";
 String.prototype.toJadenCase = function () {
   let strArray = this.split(' ');
   let jadenArray = strArray.map((str)=>{

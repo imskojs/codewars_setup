@@ -19,7 +19,7 @@ describe('Money,Money,Money', () => {
   });
 });
 
-describe('what?', function () {
+describe('Find the Parity Outlier', function () {
   it('should return N, unique odd or even number(outlier)', function () {
     assert.equal(findOutlier([0, 1, 2]), 1);
     assert.equal(findOutlier([1, 2, 3]), 2);

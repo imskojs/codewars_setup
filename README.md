@@ -2,6 +2,7 @@
 
 ## Installation
 ```bash
+npm install -g nodemon
 npm install
 ```
 
@@ -9,3 +10,5 @@ npm install
 ```bash
 npm run watch
 ```
+## 취소하기
+CMD + C, CMD + C
